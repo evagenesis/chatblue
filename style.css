@@ -1,0 +1,20 @@
+.box {
+    background: #2369cf;
+    box-shadow: 4px 4px 106px rgba(0, 0, 0, 0);
+    border-radius: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: #2d7cfb;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
